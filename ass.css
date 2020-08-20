@@ -1,0 +1,142 @@
+.nav-link{
+    color: magenta;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(218,31,218)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.nav-link:hover{
+    color: blue;
+}
+.btn{
+    background-color: magenta;
+}
+#nav-lin{
+    color: magenta;
+    font-size: 15px;
+}
+#nav-lin:hover{
+    color: blue;
+}
+
+.jumbo{
+    background-image: url(img/fl-homepage-banner\ set\ 1.jpg);
+    background-size: cover;
+    height: 40vh;
+}
+.btn:hover{
+    background-color: blue;
+    
+}
+#ide{
+    background-color: transparent;
+    border-color: magenta;
+    color: magenta;
+}
+#ide:hover{
+    border-color: blue;
+    color: blue;
+}
+#inline{
+    color: magenta;    
+}
+#inline:hover{
+    color: blue;
+    text-decoration: none;
+}
+
+.cad{
+    background-image: url(/img/certi.jpg);
+    text-align: justify;
+}
+.cad-2{
+    background-image: url(/img/course\ aces.png);
+    text-align: justify;
+}
+.btn-cert{
+    background:transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 5px 15px;
+}
+.btn-cert:hover{
+    color: white;
+    text-decoration: none;
+    background: blue;
+}
+.bus{
+    background: url(img/business.jpg);
+    background-size: cover;
+}
+.med{
+    background: url(/img/medicine.jpg);
+    background-size: cover;
+}
+.teach{
+    background: url(/img/teaching.jpg);
+    background-size: cover;
+}
+.python{
+    text-transform: uppercase;
+    border: 1px solid white;
+    padding: 5px 10px;
+    background: red;
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+}
+.python:hover{
+    text-decoration: none;
+    color: white;
+}
+.Rhino{
+    background: magenta;
+    border: 1px solid magenta;
+    text-decoration: none;
+    padding: 5px 45px;
+}
+.Rhino:hover{
+    background: blue;
+    border: 1px solid blue;
+    text-decoration: none;
+}
+.view{
+    background: transparent;
+    border: 1px solid magenta;
+    padding: 3px 8px;
+    color: magenta;
+    margin-left: 29rem;
+}
+.view:hover{
+    background: transparent;
+    border: 1px solid blue;
+    text-decoration: none;
+    color: blue;
+}
+.subj{
+    color: magenta;
+    font-size: 20px;
+    font-weight: 600;
+}
+.subj:hover{
+    color: blue;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.futl{
+    padding-left: 15rem;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+.about{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.about:hover{
+    color: whitesmoke;
+}
