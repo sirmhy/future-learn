@@ -48,11 +48,11 @@
 }
 
 .cad{
-    background-image: url(/img/certi.jpg);
+    background-image: url(img/certi.jpg);
     
 }
 .cad-2{
-    background-image: url(/img/course\ aces.png);
+    background-image: url(img/course\ aces.png);
 }
 .btn-cert{
     background:transparent;
@@ -70,11 +70,11 @@
     background-size: cover;
 }
 .med{
-    background: url(/img/medicine.jpg);
+    background: url(img/medicine.jpg);
     background-size: cover;
 }
 .teach{
-    background: url(/img/teaching.jpg);
+    background: url(img/teaching.jpg);
     background-size: cover;
 }
 .python{
