@@ -49,11 +49,10 @@
 
 .cad{
     background-image: url(/img/certi.jpg);
-    text-align: justify;
+    
 }
 .cad-2{
     background-image: url(/img/course\ aces.png);
-    text-align: justify;
 }
 .btn-cert{
     background:transparent;
@@ -139,4 +138,19 @@ ul{
 }
 .about:hover{
     color: whitesmoke;
+}
+.blak{
+    background: black;
+}
+@media(max-width: 576px){
+    .view{
+        margin-left: 8rem;
+    }
+    .hb .view{
+        margin-left: 5rem;
+    }
+    .futl{
+    padding-left: 0;
+    }
+    
 }
